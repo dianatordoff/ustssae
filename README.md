@@ -5,10 +5,10 @@ Bayesian hierarchical spatial small area estimation model (using SUMMER, https:/
 
 **Citation:** 
 
-Tordoff DM, Zangeneh S, Khosropour CM, Glick SN, McClelland RS, Dimitrov D, Reisner S, Duerr A. Geographic variation in HIV testing among transgender and non-binary adults in the United States. JAIDS Journal of Acquired Immune Deficiency Syndromes: January 07, 2022. https://journals.lww.com/jaids/Abstract/9000/Geographic_variation_in_HIV_testing_among.95718.aspx 
+Tordoff DM, Zangeneh S, Khosropour CM, Glick SN, McClelland RS, Dimitrov D, Reisner S, Duerr A. (2022). Geographic Variation in HIV Testing Among Transgender and Nonbinary Adults in the United States. JAIDS Journal of Acquired Immune Deficiency Syndromes, 89 (5), 489-497. doi: 10.1097/QAI.0000000000002909 (link)[https://journals.lww.com/jaids/Abstract/2022/04150/Geographic_Variation_in_HIV_Testing_Among.3.aspx]
 
 **Digital Supplements:**
 
-Methodology, https://cdn-links.lww.com/permalink/qai/b/qai_2021_12_29_tordoff_1_sdc1.pdf
+Methodology, http://links.lww.com/QAI/B794
 
-Detailed State-Level Summaries, https://cdn-links.lww.com/permalink/qai/b/qai_2021_12_29_tordoff_1_sdc2.pdf
+Detailed State-Level Summaries, http://links.lww.com/QAI/B795
